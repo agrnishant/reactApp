@@ -8,7 +8,7 @@
     "bootstrap": "^4.3.1",
     "font-awesome": "^4.7.0",
     "joi-browser": "^13.4.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "lodash": "^4.17.15",
     "query-string": "^6.8.3",
     "raven-js": "^3.27.2",
